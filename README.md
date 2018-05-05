@@ -4,4 +4,4 @@ Kaum ein Tag vergeht ohne die Gründung eines neuen Startups rund um den Bereich
 
 Dem soll Abhilfe geschaffen werden und weltweit sind viele Leute dabei, Standards und Best Practices zu entwerfen, die diese Probleme beheben.
 
-Vieles davon geschieht nicht in Deutschland und bleibt daher dem gemeinen Internetnutzer verborgen. Dieser Podcast soll dies Ã¤ndern und ein bisschen Licht in das Dunkel dieser Standards bringen.
+Vieles davon geschieht nicht in Deutschland und bleibt daher dem gemeinen Internetnutzer verborgen. Dieser Podcast soll dies Ändern und ein bisschen Licht in das Dunkel dieser Standards bringen.
